@@ -1,4 +1,4 @@
-baseurl: 'ibdiary.app'
+baseurl: '/'
 permalink: pretty
 title: 'IBDiary'
 
