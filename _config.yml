@@ -1,5 +1,4 @@
-baseurl: ""
-url: "https://idbiary.app"
+baseurl: "/"
 permalink: pretty
 title: 'IBDiary'
 
