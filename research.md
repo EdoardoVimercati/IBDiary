@@ -30,6 +30,6 @@ In the last year, there has been a resurgence of diet that try to manage symptom
 - [The Autoimmune Protocol](https://www.thepaleomom.com/start-here/the-autoimmune-protocol/)
 - [Low FODMAP Diet](https://www.hopkinsmedicine.org/health/wellness-and-prevention/fodmap-diet-what-you-need-to-know)
 - [Specific Carbohydrate Diet](https://www.webmd.com/ibd-crohns-disease/crohns-disease/specific-carbohydrate-diet-overview)
-- [Dangers of elimination diets based around cutting carbs, namely ketogenic and carnivore diet](notjustmeat.co)
+- [Dangers of cutting carbs](https://www.notjustmeat.co)
  
 
