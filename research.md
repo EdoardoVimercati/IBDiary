@@ -24,7 +24,7 @@ Here are some of the many articles that discuss the importance of diet in IBD pa
 
 ## Nutritional Protocol for IBS and IBD
 
-In the last year, there has been a resurgence of diet that try to manage symptoms of IBD's patients, notably: Paleo, Carnivore, AIP (Autoimmune Protocol), FODMAP, SCD (Specific Carbohydrate Diets) are some of the most common one, which report mixed results.
+In the last year, there has been a resurgence of diet that try to manage symptoms of IBD's patients, notably: Paleo, Carnivore, AIP (Autoimmune Protocol), FODMAP, SCD (Specific Carbohydrate Diets) are some of the most common one, which report mixed results.ß
 
 - [Crohnscolitisnutrition.com](https://www.crohnscolitisnutrition.com/)
 - [The Autoimmune Protocol](https://www.thepaleomom.com/start-here/the-autoimmune-protocol/)
